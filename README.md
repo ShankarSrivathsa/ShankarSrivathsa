@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm an Undergrad | Passionate ML Engineer who’s 
 
 Email - shankarsrivathsa@gmail.com  
 Linkedin - [Adukuri Shankar Srivathsa](https://www.linkedin.com/in/ashankarsrivathsa)
+
 ---
 
 ### 🚀 About Me
@@ -11,8 +12,8 @@ Linkedin - [Adukuri Shankar Srivathsa](https://www.linkedin.com/in/ashankarsriva
 * 🎓 I'm currently a 2nd Year B.Tech student in CSE (AIML) at Geethanjali College of Engineering and Technology.
 * 🤖 My interests include **AI, IoT, Robotics, and Data Science**.
 * 🌱 I’ll soon be diving deep into: `Python`, `Java`, and sharpening my ML foundations.
-* 🎯 My goal: Become a polymath and bridge the harmony between humans and AI.
 * 🌌 Fun fact: I’m an **Astrophile** who finds patterns in both stars and code.
+* 🎯 My goal: To become a dedicated researcher in AI/ML and Robotics, creating innovative, human-centered technologies and contributing to the advancement of responsible, impactful solutions—while sharing knowledge through teaching and mentorship.
 
 ---
 
@@ -22,8 +23,8 @@ Linkedin - [Adukuri Shankar Srivathsa](https://www.linkedin.com/in/ashankarsriva
 * **Web:** HTML, CSS, JavaScript
 * **AI/ML & Tools:** Teachable Machine, Google AI Studio
 * **Other Tools I Vibe With:** Lovable.dev, bolt.new
-* **Platforms:** Git, VS Code, Linux
-
+* **Design & UX:** Figma, Canva
+  
 ---
 
 ### 🌟 Featured Projects
@@ -41,6 +42,6 @@ Linkedin - [Adukuri Shankar Srivathsa](https://www.linkedin.com/in/ashankarsriva
 
 ### 📌 Quote I Live By
 
-> "A jack of all trades is a master of none, but oftentimes better than master of one."
+> "To question deeply, build wisely, and teach freely—that is the legacy I aim for."
 
 Thanks for visiting my profile! Let’s build something stellar together 🚀
