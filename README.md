@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm an Undergrad | Passionate ML Engineer who’s on a mission to build creative, impactful tech with purpose.
 
-Email - shankarsrivathsa@gmail.com  Linkedin - [Adukuri Shankar Srivathsa](https://www.linkedin.com/in/ashankarsrivathsa)
+Email - shankarsrivathsa@gmail.com  
+Linkedin - [Adukuri Shankar Srivathsa](https://www.linkedin.com/in/ashankarsrivathsa)
 ---
 
 ### 🚀 About Me
