@@ -29,7 +29,6 @@ Linkedin - [Adukuri Shankar Srivathsa](https://www.linkedin.com/in/ashankarsriva
 
 ### 🌟 Featured Projects
 
-* 🔤 **SignLang** – Real-time sign language to text translator using AI and Meta’s SAM & DINOv2
 * 🚨 **HOAX** – Emergency response app that alerts nearby hospitals/ambulances instantly
 * 📔 **Mood & Habit Tracker** – A mental health journal with privacy-first design, gamification & insights
 
